@@ -1,4 +1,4 @@
-# Jack Davidson [website](jack-davidson.github.io/site/)
+# Jack Davidson ([website](jack-davidson.github.io/site/))
 Hi, my name is Jack Davidson and I am a web developer &
 programmer based in Austin, Texas. I enjoy computer science
 & mathematics. I have a strong passion for learning
