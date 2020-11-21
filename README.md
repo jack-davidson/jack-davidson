@@ -1,16 +1,12 @@
-### Hi there 👋
+# Jack Davidson
+Hi, my name is Jack Davidson and I am a web developer &
+programmer based in Austin, Texas. I enjoy computer science
+& mathematics. I have a strong passion for learning
+and I am a strong believer in the growth mindset.
 
-<!--
-**jack-davidson/jack-davidson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## programming languages
+I program daily in C and POSIX shell. I also have experience
+in web development using technologies like HTML, CSS, and
+vanilla javascript. My backend langauge and toolset of choice
+is python plus (django for more complex projects) or (flask
+for simpler APIs).
