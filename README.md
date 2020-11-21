@@ -10,5 +10,3 @@ in web development using technologies like HTML, CSS, and
 vanilla javascript. My backend langauge and toolset of choice
 is python plus (django for more complex projects) or (flask
 for simpler APIs).
-
-==================================================================
