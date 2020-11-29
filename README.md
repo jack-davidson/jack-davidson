@@ -13,6 +13,7 @@ for simpler APIs).
 
 ## latest project
 [personal website and blog](https://github.com/jack-davidson/jackdavidson)
+<br>
 My lastest project, my personal website and blog, is an extension of my
 previously made static website and I added templating and a database so blogs
 can be written and viewed. The personal website and blog is not yet hosted
