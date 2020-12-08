@@ -26,8 +26,8 @@ be my primary website and I will take down the old site. The source code for
 the old site is available [here](https://github.com/jack-davidson/site).
 
 ## skills
-- GNU/Linux customization & administration
-- Vi, Vim, & NeoVim (NeoVim is my sole text editor/ide)
+- GNU/Linux customization & administration ([dotfiles](https://github.com/jack-davidson/config), [dwm](https://github.com/jack-davidson/dwm), [st](https://github.com/jack-davidson/st), [dmenu](https://github.com/jack-davidson/dmenu))
+- Vi, Vim, & NeoVim (NeoVim is my sole text editor & ide)
 - see **programming languages**
 - see **frontend languages**
 
