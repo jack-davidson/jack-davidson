@@ -9,6 +9,11 @@ strong believer in the growth mindset.
 - python
 	- django
 
+## frontend languages
+- javascript
+- HTML
+- CSS
+
 ## latest project
 [personal website and blog](https://github.com/jack-davidson/jackdavidson)
 
