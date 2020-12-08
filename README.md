@@ -25,6 +25,12 @@ I am using now. Once I get my personal website and blog hosted, that will
 be my primary website and I will take down the old site. The source code for
 the old site is available [here](https://github.com/jack-davidson/site).
 
+## skills
+- GNU/Linux customization & administration
+- Vi, Vim, & NeoVim (NeoVim is my sole text editor/ide)
+- see programming languages
+- see frontend languages
+
 ## programming languages
 - C
 - POSIX-compatible shell
