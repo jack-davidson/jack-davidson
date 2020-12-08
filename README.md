@@ -4,9 +4,10 @@ computer science & mathematics. I have a strong passion for learning and I am a
 strong believer in the growth mindset.
 
 ## programming languages
-I make heavy use of C and POSIX shell. I also have experience in web development
-using HTML, CSS, and javascript. My backend langauge and toolset of choice is
-python plus (django for more complex projects) or (flask for simpler APIs).
+- C
+- POSIX-compatible shell
+- python
+	- django
 
 ## latest project
 [personal website and blog](https://github.com/jack-davidson/jackdavidson)
