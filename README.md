@@ -1,7 +1,7 @@
 # Jack Davidson ([website](https://jack-davidson.github.io/site/))
 Hi, my name is Jack Davidson and I am a programmer in Austin, Texas. I enjoy
 computer science & mathematics. I have a strong passion for learning and I am a
-strong believer in the growth mindset.
+strong proponent of the growth mindset.
 
 ## latest project
 [personal website and blog](https://github.com/jack-davidson/jackdavidson)
