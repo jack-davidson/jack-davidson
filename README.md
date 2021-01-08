@@ -12,7 +12,6 @@ strong proponent of the growth mindset.
 - HTML
 	- django templates
 - CSS
-- Template inheritance
 
 My lastest project, my personal website and blog, is an extension of my
 previously made static website and I added a backend, django, to make have the
@@ -28,6 +27,7 @@ the old site is available [here](https://github.com/jack-davidson/site).
 ## skills
 - GNU/Linux customization & administration ([dotfiles](https://github.com/jack-davidson/config), [dwm](https://github.com/jack-davidson/dwm), [st](https://github.com/jack-davidson/st), [dmenu](https://github.com/jack-davidson/dmenu))
 - Vi, Vim, & NeoVim (NeoVim is my sole text editor & ide)
+- *LaTeX* typesetting system
 - see **programming languages**
 - see **frontend languages**
 
