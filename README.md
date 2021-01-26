@@ -34,8 +34,10 @@ the old site is available [here](https://github.com/jack-davidson/site).
 ## programming languages
 - C
 - POSIX-compatible shell
+- bash shell
 - python
 	- django
+- javascript
 
 ## frontend languages
 - javascript
