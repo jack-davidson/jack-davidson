@@ -20,10 +20,10 @@ strong proponent of the growth mindset.
 - POSIX shell
 - bash
 - python
-	- django
-        - flask
-        - fastapi
-        - discordpy
+    - django
+    - flask
+    - fastapi
+    - discordpy
 - javascript
     - nodejs
         - expressjs
